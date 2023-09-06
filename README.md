@@ -1,5 +1,7 @@
 # Robofleet
 
+## [Demo video](https://www.youtube.com/watch?v=ZmG4rqFRJ-s)
+
 ![Overview diagram](https://github.com/ut-amrl/robofleet/blob/1fa0a7acb2895eed4e452c627a4d8cc2d26e241f/overview_diagram.png)
 
 This project is the implementation of `Robofleet: Open Source Communication and Management for Fleets of Autonomous Robots` as presented at IROS 2021.
